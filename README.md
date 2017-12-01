@@ -33,7 +33,7 @@ ratings: as a consumer i want to rate an individual piece of material in terms o
 n    |  tasks                      |  frontend            |  backend      
  --- | --------------------------- | -------------------- |  ---------       
 1    | see individual rating for each material on product page  |   UI stars on Product Page  |   ?
-2    | open material in new page   |   UI page: material?	|	API get material  
+2    | view/expand material info on product page  |   UI page: material component	|	?     
 3    | rate material (once?)    |	UI dynamic rating/stars component	|	API post rating  
 4    | see material’s average rating   	|	-	|	API get average rating + N of votes  
 
@@ -46,8 +46,8 @@ annotations: as a consumer i want to associate some notes of my own to a piece o
 
 n    |  tasks                      |  frontend            |  backend      
  --- | --------------------------- | -------------------- |  ---------  
-1  |   open material page   |  -            |  -              
-3  |   edit comment field		|     UI comment component		|     API get/post consum/prod/material/comment
+1  |   view/expand personal notes for each material   |  -            |  -              
+3  |   edit notes 		|     UI comment component		|     API get/post consum/prod/material/comment
 
 ![material](https://raw.githubusercontent.com/2dv612-team-1/sprint-04/master/material-page.jpeg "Material")
 
