@@ -52,7 +52,7 @@ n    |  tasks                      |  frontend            |  backend
 1  |   open material page   |  -            |  -              
 2  |   edit comment field		|     UI comment component		|     API get/post consum/prod/material/comment
 
-
+![material](https://raw.githubusercontent.com/2dv612-team-1/sprint-04/master/material-page.jpeg "Material")
 
 ___
 
