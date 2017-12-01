@@ -46,8 +46,9 @@ annotations: as a consumer i want to associate some notes of my own to a piece o
 
 n    |  tasks                      |  frontend            |  backend      
  --- | --------------------------- | -------------------- |  ---------  
-1  |   open material page   |  -            |  -              
-2  |   edit comment field		|     UI comment component		|     API get/post consum/prod/material/comment
+ 1   | see individual rating for each material on product page  |   UI stars on Product Page  |   ?
+2  |   open material page   |  -            |  -              
+3  |   edit comment field		|     UI comment component		|     API get/post consum/prod/material/comment
 
 ![material](https://raw.githubusercontent.com/2dv612-team-1/sprint-04/master/material-page.jpeg "Material")
 
