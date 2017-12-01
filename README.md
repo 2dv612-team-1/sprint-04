@@ -39,9 +39,6 @@ n    |  tasks                      |  frontend            |  backend
 
 
 
-
-___
-
 ### 2593
 annotations: as a consumer i want to associate some notes of my own to a piece of material so that i don't have to remember insights/solutions that resulted from consuming some material
 
